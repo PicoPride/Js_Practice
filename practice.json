@@ -1,0 +1,145 @@
+[
+  {
+    "category": "science",
+    "id": "622a1c3a7cc59eab6f95108e",
+    "correctAnswer": "Alchemy",
+    "incorrectAnswers": ["Magic", "Aurentalism", "Mystic Metallurgy"],
+    "question": {
+      "text": "The ancient attempt to transmute base metals into gold was called ________."
+    },
+    "tags": ["classics", "science"],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "geography",
+    "id": "623735c9cfe13103f55eb56b",
+    "correctAnswer": "Saudi Arabia",
+    "incorrectAnswers": ["Guinea-Bissau", "Samoa", "Slovakia"],
+    "question": {
+      "text": "Which region of the world uses '.sa' at the end of its web addresses?"
+    },
+    "tags": ["geography"],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "622a1c367cc59eab6f950264",
+    "correctAnswer": "Portugal ",
+    "incorrectAnswers": ["Italy", "Spain", "France"],
+    "question": { "text": "Which country produces the wine Vinho Verdi?" },
+    "tags": ["drink", "wine", "food_and_drink"],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "food_and_drink",
+    "id": "624c607b50d1a5e051325a5e",
+    "correctAnswer": "England",
+    "incorrectAnswers": ["Mexico", "Philippines", "Spain"],
+    "question": {
+      "text": "Fish & Chips is a dish that is most associated with which part of the world?"
+    },
+    "tags": ["food", "food_and_drink"],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "science",
+    "id": "6242cb41d543524f1b19c91c",
+    "correctAnswer": "A brood",
+    "incorrectAnswers": ["A kindle", "A field", "A clowder"],
+    "question": { "text": "What is the word for a group of hens?" },
+    "tags": ["animals", "biology", "science"],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "film_and_tv",
+    "id": "622a1c347cc59eab6f94f947",
+    "correctAnswer": "Pirates of the Caribbean",
+    "incorrectAnswers": [
+      "The Godfather",
+      "The Silence of the Lambs",
+      "The Birds"
+    ],
+    "question": {
+      "text": "Which film contains the character 'Captain Jack Sparrow'?"
+    },
+    "tags": [
+      "fictitious_characters",
+      "film",
+      "general_knowledge",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c377cc59eab6f95040d",
+    "correctAnswer": "James Brown",
+    "incorrectAnswers": ["Marvin Gaye", "Stevie Wonder", "Ray Charles"],
+    "question": {
+      "text": "Nicknamed the Godfather Of Soul, who died on Christmas Day 2006?"
+    },
+    "tags": ["music"],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c367cc59eab6f95030d",
+    "correctAnswer": "Samuel Pepys",
+    "incorrectAnswers": ["Anne Frank", "Lewis Chertsey", "Henry Rollings"],
+    "question": { "text": "Who Wrote A Famous Diary Between 1660 & 1669?" },
+    "tags": ["history"],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "arts_and_literature",
+    "id": "622a1c367cc59eab6f950185",
+    "correctAnswer": "Earnshaw",
+    "incorrectAnswers": ["Heathcliffe", "Darcy", "Bingby"],
+    "question": {
+      "text": "What is the surname of Cathy in \"Wuthering Heights\"?"
+    },
+    "tags": ["arts_and_literature"],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "history",
+    "id": "622a1c3d7cc59eab6f951bf5",
+    "correctAnswer": "Alexander the Great",
+    "incorrectAnswers": ["Napoleon", "Julius Caesar", "General Custer"],
+    "question": {
+      "text": "Who Had a wife named Roxana and a horse named Bacephalus?"
+    },
+    "tags": ["history"],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  }
+]
